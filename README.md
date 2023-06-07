@@ -1,2 +1,1 @@
-# UdemySaaSPublic
- Public repo of Udemy Saas AI Course
+Please dnt forget to add your openai API Key in config.env file
